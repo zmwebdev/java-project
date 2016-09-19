@@ -19,7 +19,6 @@ public class CalcularMedia {
 		z = (double)(x+y)/2;
 		
 		System.out.println("z:" + z);
-		
 		System.out.format("z:%.2f", z);  // two decimals
 		
 		sc.close();
